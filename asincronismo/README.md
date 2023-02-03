@@ -4,6 +4,7 @@
 patron de diseño que espera y distribuye eventos o mensajes en el programa 
 también puede ser visto como un mesero que está pendiente de las ordenes que le piden y la preparación de la cocina 
 tarea asignada para mover del task queue al stack, solo si el stack esta vacío 
+http://latentflip.com/loupe/
 
 
 ## Memory heap
